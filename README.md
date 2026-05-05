@@ -1,6 +1,6 @@
 # GOM25: A Stable Geodetic Reference Frame for Assessing Infrastructure Health and Coastal Hazards in the Gulf of Mexico Region
 
-by Jennifer Welch    Guoquan Wang (gwang@uh.edu)
+by Jennifer Welch,    Guoquan Wang (gwang@uh.edu)
 
 # Abstract
 
@@ -8,6 +8,10 @@ The Gulf of Mexico (GOM) region faces significant challenges from coastal subsid
 
 # Figures
 <img width="2148" height="1450" alt="Fig1_GOM25" src="https://github.com/user-attachments/assets/c6fb99fe-f1dc-4228-82d6-84cdd885eee5" />
+
+<img width="1797" height="2539" alt="MSYZ" src="https://github.com/user-attachments/assets/df7c30a0-d1d3-4131-8900-59c917891ae7" />
+<img width="1809" height="2539" alt="MSYZ_detrended" src="https://github.com/user-attachments/assets/98570a17-aa9e-45be-8271-fba8e3a74b6f" />
+
 
 [Fig2a.tiff](https://github.com/user-attachments/files/27403766/Fig2a.tiff)
 [Fig2b.tiff](https://github.com/user-attachments/files/27403770/Fig2b.tiff)
