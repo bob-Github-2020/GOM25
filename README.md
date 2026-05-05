@@ -2,6 +2,11 @@
 
 by Jennifer Welch,    Guoquan Wang (gwang@uh.edu)
 
+Main references:
+
+Wang, G., and J. Welch. 2025. “GOM25 Reference Frame: Supporting Python Tools and Datasets for the Gulf of Mexico Region.” Zenodo. 
+https://doi.org/10.5281/zenodo.17204565
+
 # Abstract
 
 The Gulf of Mexico (GOM) region faces significant challenges from coastal subsidence, sea level rise, and fault related ground deformation, necessitating a geodetic reference frame capable of isolating subtle local deformation from the background signal of rigid plate rotation and translation. We present the Gulf of Mexico Reference Frame 2025 (GOM25), a temporally stable and spatially consistent datum aligned with the International GNSS Service Reference Frame 2020 (IGS20). GOM25 is realized through a densified network of 150 continuous GNSS stations, located in the northern GOM region and anchored to the stable interior of the North American Plate. The frame achieves a stability of 0.3 mm/year horizontally and 0.5 mm/year vertically, providing a robust reference foundation for the greater Gulf region (15° N–37° N, 110° W–75° W). To ensure practical accessibility, we provide a one-set 7-parameter transformation for ECEF-XYZ coordinates, from which we derive the corresponding transformations for displacements and site velocities between IGS20 and GOM25. Applying this regional frame yields quantitative insights relevant to infrastructure and hazard management; two examples exemplify its utility: (1) a mean sea level rise rate of 2.7±0.4 mm/year during the past half century along the GOM coast and South Atlantic Bight, and (2) an average uplift rate of 1.3±0.6 mm/year in the southern High Plains over the past two decades—both measured relative to GOM25, physically the stable Gulf coastal plain. GOM25 provides a critical foundation for reconciling sea-level measurements, constraining post-glacial rebound models, and monitoring the structural health of onshore and offshore infrastructures, supporting interdisciplinary efforts in coastal flooding and inundation mapping, wetland loss mitigation, urban subsidence assessment, and resilient planning across the region.
